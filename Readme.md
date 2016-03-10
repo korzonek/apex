@@ -137,6 +137,7 @@ See the [Documentation](docs) for more information.
 [![GoDoc](https://godoc.org/github.com/apex/apex?status.svg)](https://godoc.org/github.com/apex/apex)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-experimental-orange.svg) [![OpenCollective](https://opencollective.com/apex/backers/badge.svg)](https://opencollective.com/apex#backer) [![OpenCollective](https://opencollective.com/apex/sponsors/badge.svg)](https://opencollective.com/apex#sponsor)
+[![codebeat](https://codebeat.co/badges/770ee2cb-f165-4f85-b458-67cb84867da1)](https://codebeat.co/projects/github-com-apex-apex)
 
 ## Backers
 
